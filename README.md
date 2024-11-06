@@ -1,4 +1,4 @@
-# 2048 Game
+# JS game 2048
 
 This project is a JavaScript implementation of the popular 2048 game. Players combine numbered tiles on a 4x4 grid to reach the tile with the value 2048. The project is built with a simple HTML, CSS, and JavaScript structure, making use of Object-Oriented Programming (OOP) principles.
 
